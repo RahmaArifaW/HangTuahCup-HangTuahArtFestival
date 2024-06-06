@@ -22,7 +22,7 @@ function timer() {
 }
 
 function bukain() {
-  window.open("https://docs.google.com/document/d/1rbv8nzG3iiJl5eWZvUChkxbOBmCJr7dxINiNwF59q-c/edit?usp=sharing")
+  window.open("https://bit.ly/htcup2025")
 }
 
 function countDown() {
