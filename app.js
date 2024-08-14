@@ -2,7 +2,7 @@ const timeLeft = document.getElementById('time-left')
 const button1 = document.getElementById('button1')
 
 //month day year
-const duedate = new Date('August 14, 2024 14:15:00')
+const duedate = new Date('August 15, 2024 14:15:00')
 
 const second = 1000
 const minute = second * 60
