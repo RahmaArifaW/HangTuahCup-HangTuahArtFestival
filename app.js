@@ -22,7 +22,7 @@ function timer() {
 }
 
 function bukain() {
-  window.open("https://bit.ly/htcuphartes")
+  window.open("https://bit.ly/htcup2025hartes")
 }
 
 function countDown() {
